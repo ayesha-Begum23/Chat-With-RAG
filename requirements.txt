@@ -1,0 +1,6 @@
+streamlit==1.18.1
+pinecone-client==2.2.1
+fitz==1.18.3
+python-dotenv==1.0.0
+groq==0.1.0
+numpy==1.24.1
